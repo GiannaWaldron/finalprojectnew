@@ -39,7 +39,7 @@ hr {
 /* Set a style for all buttons */
 button {
   background-color: black;
-  color: white;
+  color: rgb(48, 46, 46);
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
