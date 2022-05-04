@@ -14,11 +14,12 @@ h1{
     color: white;
     font-family: 'Open Sans', sans-serif;
     padding: 60px;
+    size: 30%;
     font-size: 30px;
     border: none;
   }
   .dropdown {
-    position: relative;
+    position: fixed;
     display: inline-block;
   }
   .dropdown-content {
