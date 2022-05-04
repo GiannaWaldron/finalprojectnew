@@ -16,7 +16,7 @@ h1{
     font-family: 'Open Sans', sans-serif;
     padding: 16px;
     width: 960px;
-    font-size: 16px;
+    font-size: 30px;
     border: none;
     cursor: pointer;
   }
@@ -49,6 +49,6 @@ h1{
   }
   /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
   .show {display:block;}
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 960px) {
    
   }
